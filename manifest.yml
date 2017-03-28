@@ -3,6 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
+  manifest: sdk-for-nodejs
   name: tutorial-mana
   host: tutorial-mana
   disk_quota: 1024M
